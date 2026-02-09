@@ -40,7 +40,7 @@ apple store details https://developer.apple.com/app-store/app-privacy-details/
 ## FEATURES
 
 - Login - <https://developers.facebook.com/docs/facebook-login>
-- Sharing - <https://developers.facebook.com/docs/sharing>
+- - <https://developers.facebook.com/docs/sharing>
 - App Links - <https://developers.facebook.com/docs/applinks>
 - Graph API - <https://developers.facebook.com/docs/ios/graph>
 - Analytics - <https://developers.facebook.com/docs/analytics>
